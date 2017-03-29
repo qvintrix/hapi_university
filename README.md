@@ -1,1 +1,1 @@
-# hapi_university
+# hapi_university - https://github.com/hapijs/university
